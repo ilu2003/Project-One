@@ -1,3 +1,28 @@
 body{
-    background-color: lightyellow;
+    background-color: red;
 }
+
+.nav-link{
+    font-weight: lighter;
+}
+
+.nav-link:hover{
+    font-weight: bolder;
+    background-color: #eee;
+}
+
+header{
+    height: 600px;
+    width: 100%;
+    background-image: url("redcheckers");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Faster One', cursive;
+    font-size: x-large;
+}
+
+header p{
+    font-style: italic;
+}
+
+
