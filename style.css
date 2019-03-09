@@ -30,7 +30,7 @@ header p{
     font-family: 'Faster One', cursive;
 }
 
-hr{
+.aboutus hr{
     background-color: black;
 }
 
@@ -70,3 +70,50 @@ hr{
     border-radius: 50%;
     margin-bottom: 50px;
 }
+
+.container{
+    font-family: 'Faster One', cursive;
+    text-align: center;
+}
+
+.container hr{
+    background-color: black;
+}
+
+.container i{
+    font-size: 30px;
+    padding:25px 20px;
+    
+    /*change the color*/
+     color: #FF6347;
+    background-color: #fff;
+    
+    /*resize the container of icon*/
+    width: 80px;
+    height: 80px;
+    
+    /*make the container round*/
+    border-radius: 50%;
+}
+
+.container button{
+    background-color: black;
+    
+}
+
+.container .options{
+    background-color: white;
+}
+
+.button:hover{
+    background-color: #fff;
+    color: #000000;
+}
+
+.contact{
+    font-family: 'Faster One', cursive;
+    text-align: center;
+}
+
+
+
