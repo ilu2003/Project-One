@@ -25,4 +25,32 @@ header p{
     font-style: italic;
 }
 
+.aboutus{
+    text-align: center;
+    font-family: 'Faster One', cursive;
+}
 
+hr{
+    background-color: black;
+}
+
+.aboutus i{
+    font-size: 30px;
+    padding:25px 20px;
+    
+    /*change the color*/
+     color: #FF6347;
+    background-color: #fff;
+    
+    /*resize the container of icon*/
+    width: 80px;
+    height: 80px;
+    
+    /*make the container round*/
+    border-radius: 50%;
+}
+
+.aboutus span{
+    width: 200px;
+    display: inline-block;
+}
