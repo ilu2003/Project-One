@@ -115,5 +115,13 @@ header p{
     text-align: center;
 }
 
+.contact .btn{
+    border-radius: 0;
+    width: 100%;
+    font-size: 15px;
+    background-color: #f08080;
+    color: fff;
+}
+
 
 
